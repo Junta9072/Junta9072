@@ -1,8 +1,8 @@
 ## Hi there! 👀
 I'm 🌵**Junta9072**🌵, or just Yarne.  
   
-take a look at my repo's ,or jump straight to my [portfolio website!👨‍💻](https://studiosossis.netlify.app/)  
-*if you're curious about the portfolio website repo then click [this one](https://github.com/Junta9072/StudioSossis2)* 🤫  
+take a look at my repo's ,or jump straight to my [portfolio website!👨‍💻](https://studiosossis.com/)  
+*if you're curious about the portfolio website repo then click [this one](https://github.com/Junta9072/StudioSossis3)* 🤫  
 
 ### Even more curious?
 you can contact me on [my linked in 📫](https://www.linkedin.com/in/yarne-brangers-7a46a31ba/)  
